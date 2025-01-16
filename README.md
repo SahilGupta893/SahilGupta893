@@ -1,9 +1,6 @@
 # 👋 Hi, I’m Sahil Gupta
 "🚀 Welcome to my digital playground on GitHub, where creativity meets code and innovation comes to life!"
 
-Alternatively, you could go with:
-"✨ Welcome to my GitHub profile – a space where I build, learn, and share my journey through the world of code!"
-
 ---
 
 ## 🔭 I’m Currently Working On
