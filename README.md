@@ -85,12 +85,12 @@ I am passionate about building both front-end and back-end applications, along w
 
 🎯 Check out my LeetCode journey and problem-solving skills:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-jai_gupta01-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/jai_gupta01/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sahil_gupta01-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Sahil_gupta01/)
 
 🔢 **LeetCode Stats**:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jai_gupta01)](https://leetcode.com/u/jai_gupta01/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jai_gupta01)](https://leetcode.com/u/Sahil_gupta01/)
 
-🔗 **Visit my LeetCode Profile**: [My LeetCode Profile](https://leetcode.com/u/jai_gupta01/)
+🔗 **Visit my LeetCode Profile**: [My LeetCode Profile](https://leetcode.com/u/Sahil_gupta01/)
 
 
 ---
