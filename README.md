@@ -98,13 +98,3 @@ I am passionate about building both front-end and back-end applications, along w
 ## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=SahilGupta893&theme=radical)
 
----
-
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=SahilGupta893&color=blue)
-
----
-
-## Contribution Snake Animation
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
